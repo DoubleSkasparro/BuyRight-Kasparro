@@ -1,6 +1,6 @@
 # BuyRight - 
 
-Here is the video link: **https://youtube.com/watch?v=pRk88QR8AmQ&feature=shared**
+Here is the video link: **https://youtube.com/watch?v=pRk88QR8AmQ&feature=shared** 
 
 ---
 
