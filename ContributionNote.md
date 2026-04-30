@@ -4,5 +4,6 @@ We contributed to the development of the AI-powered shopping assistant by design
 
 ## Roles and Responsibilities
 
-- **Frontend Development:** Team Member 2 (Shambhavi Mishra)  
 - **Backend Development:** Team Member 1 (Sayani Adhikary)
+- **Frontend Development:** Team Member 2 (Shambhavi Mishra)  
+
